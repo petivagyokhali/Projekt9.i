@@ -14,9 +14,21 @@ button {
     width: 70px;
     color:white;
     background-color: lightslategray;
-    margin: 50px;
+    margin: 30px;
 }
 #thor {
     background: url(https://hu.wikipedia.org/wiki/Thor_(isten) );
     padding: auto;
+}
+img {
+    margin:auto;
+    display: block;
+    height: 500px;
+}
+.mondat {
+    margin-left: 470px;
+}
+.egesz {
+    background-color: powderblue;
+    
 }
