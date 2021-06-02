@@ -12,13 +12,13 @@ h3 {
 button {
     height: 70px;
     width: 70px;
-    color:white;
-    background-color: lightslategray;
+    color: lightgrey;
+    background-color: darkslategray;
     margin: 30px;
 }
-#thor {
-    background: url(https://hu.wikipedia.org/wiki/Thor_(isten) );
-    padding: auto;
+#p {
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
 }
 img {
     margin:auto;
@@ -29,5 +29,9 @@ img {
     margin-left: 470px;
 }
 body {
-    background-color: aquamarine;
+    background-color: deepskyblue;
+}
+hr {
+    border-top: 3px solid black;
+    border-bottom: 0px;
 }
